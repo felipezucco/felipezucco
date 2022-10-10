@@ -4,7 +4,7 @@
 <p align="left"> 
   Meu nome é Felipe Zucco e sou desenvolvedor Java 8 desde 2020.
   Gosto de criar coisas através da programação buscando desafiar minhas habilidades além de obter novos conhecimentos.
-  Atualmente trabalho como <strong>Desenvolvedor Junior em Compass UOL</strong> 
+  Atualmente trabalho como <strong>Desenvolvedor em Compass UOL</strong> 
   usando no dia a dia tecnologias como Java 8, Spring Boot, ATG Ecommerce, Oracle DB, Gitlab, Jenkins, JSP, Vue Js, React Js, Postman, Mockito
   e framework ágil Scrum.
 </p>
