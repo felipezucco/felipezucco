@@ -1,6 +1,7 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+# Sobre mim 🧑‍💻
 
-<div > 
+<div >
+  <br/>
   Meu nome é Felipe Zucco e sou desenvolvedor Java 8 desde 2020.
   Gosto de criar coisas através da programação buscando desafiar minhas habilidades além de obter novos conhecimentos.
   Atualmente trabalho como <strong>Desenvolvedor em Compass UOL</strong> 
@@ -17,7 +18,7 @@
  <tr>
     <td width="60%">
      
-## 🛠️ Skills
+## 🛠️ Habilidades
 
 #### Linguagens
 
@@ -54,7 +55,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-## Contato
+## 📧 Contato
       
 <a href="felipecostazucco@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
